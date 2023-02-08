@@ -15,10 +15,10 @@ To facilitate the development and evaluation for future VTA systems, we present 
 | Question Answering       | 139     | 10           | 1,767   |
 | General Dialog           | 20      | 20           | 124,512 |
 
-You can download the VTA dataset at  [this repository]( https://github.com/ShangQingTu/VTA/tree/main/VTA_dataset) 
+You can download the VTA dataset at  [this repository](https://github.com/THU-KEG/VTA/tree/main/VTA_dataset) 
 
 - The data access permission is granted by XuetangX. We follow the privacy policy and protect the users' data by deploying our system on the company's intranet to prevent data leaking. Therefore, we  anonymize the user's name for the intention and QA data using real history dialogues. 
-- See more details in our [README]( https://github.com/ShangQingTu/VTA/tree/main/VTA_dataset) for VTA dataset
+- See more details in our [README](https://github.com/THU-KEG/VTA/tree/main/VTA_dataset) for VTA dataset
 
 Here we share the collection process for VTA dataset:
 
